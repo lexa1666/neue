@@ -1,7 +1,7 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://lexa1666.github.io/neue/'
 locale = 'en-US'
 title = 'neue'
-theme = 'pageroom-tinted'
+theme = 'localcraft'
 
 [params]
   description = 'A new website made with Pageroom.'

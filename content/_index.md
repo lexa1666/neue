@@ -1,5 +1,7 @@
 +++
 title = 'Home'
+image = '/images/logo.png'
+imageAlt = 'jjj'
 +++
 
 # Welcome to your new website
